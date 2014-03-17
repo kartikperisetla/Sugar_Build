@@ -27,7 +27,7 @@ Once the make process is complete you should be able to run your sugar environme
 
     $ make run
     
-and here you go....your sugar is up and running!
+and here you go....your sugar desktop environment is up and running!
 You can switch between your fedora environment and sugar by Ctrl+Alt+F1 and Ctrl+Alt+F3
 
 <img src="http://1.bp.blogspot.com/-EzYF9FHqP3Y/UAu6P26vsjI/AAAAAAAADzM/UKarBgKQqks/s640/Screenshot+of+_Journal_.png"/>
