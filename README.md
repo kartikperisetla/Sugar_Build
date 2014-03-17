@@ -10,13 +10,13 @@ Get the source code
 ---------------
 You need to get the latest repository of sugar using git
 
-    $git clone git://git.sugarlabs.org/sugar-build/sugar-build.git
+    $ git clone git://git.sugarlabs.org/sugar-build/sugar-build.git
     
 Make
 --------------
 Then run the make command to build it( It usually takes 20-30 mins depending on processor and RAM)
 
-    $make
+    $ make
     
 you will see such message once make is complete: 
 <img src="http://3.bp.blogspot.com/-O5i8KKwbB3w/UAu1omtajQI/AAAAAAAADy4/l4tZ58dBzGQ/s1600/make_complete.png"/>
